@@ -25,3 +25,5 @@ We have used LibriSpeech dataset in this experiment. You need to define the loca
 
 # Hyper-parameters
 All the hyper-parameters can be changed in the individual .py files.
+
+If any problems are faced regarding the code please contact at: aminul.huq11@gmail.com
